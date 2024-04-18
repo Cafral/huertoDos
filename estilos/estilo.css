@@ -1,0 +1,67 @@
+*{
+    background-color: beige;
+}
+.contenedor1{
+    color: red;
+    text-align: center;
+    border: 3px solid seagreen;
+    background: url"imagenes/Captura de pantalla 2024-04-17 080528.png";
+    justify-content: space-between;
+    display: flex;
+    font-size: 30px;
+    padding: 5px;
+    top: 50px;
+}
+.input{
+    font-size: 20px;
+    padding: 5px;
+}
+.contenedor2{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.pana{
+    justify-content: space-between;
+    display: flex;
+    font-size: 20px;
+}
+.img0{
+    width: 1300px;
+    padding: 5px;
+    top: auto;
+    left: auto;
+}
+.img{
+    width: 200px;
+    position: relative;
+}
+.img1{
+    width: 200px;
+    position: relative;
+}
+.pana {
+    padding: 10px;
+    box-sizing: border-box;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.pana h2 {
+    margin: 0;
+    margin-bottom: 10px;
+}
+
+.pana img {
+    max-width: 100%;
+    height: auto;
+}
+.pana h3 {
+    margin-top: 0;
+}
+
+.pana img {
+    max-width: 100%;
+    height: auto;
+}
